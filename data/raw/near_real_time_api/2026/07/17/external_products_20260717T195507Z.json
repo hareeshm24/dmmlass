@@ -1,0 +1,1360 @@
+[
+  {
+    "product_id": "api-1",
+    "name": "Essence Mascara Lash Princess",
+    "category": "beauty",
+    "price": 9.99,
+    "popularity_score": 2.56
+  },
+  {
+    "product_id": "api-2",
+    "name": "Eyeshadow Palette with Mirror",
+    "category": "beauty",
+    "price": 19.99,
+    "popularity_score": 2.86
+  },
+  {
+    "product_id": "api-3",
+    "name": "Powder Canister",
+    "category": "beauty",
+    "price": 14.99,
+    "popularity_score": 4.64
+  },
+  {
+    "product_id": "api-4",
+    "name": "Red Lipstick",
+    "category": "beauty",
+    "price": 12.99,
+    "popularity_score": 4.36
+  },
+  {
+    "product_id": "api-5",
+    "name": "Red Nail Polish",
+    "category": "beauty",
+    "price": 8.99,
+    "popularity_score": 4.32
+  },
+  {
+    "product_id": "api-6",
+    "name": "Calvin Klein CK One",
+    "category": "fragrances",
+    "price": 49.99,
+    "popularity_score": 4.37
+  },
+  {
+    "product_id": "api-7",
+    "name": "Chanel Coco Noir Eau De",
+    "category": "fragrances",
+    "price": 129.99,
+    "popularity_score": 4.26
+  },
+  {
+    "product_id": "api-8",
+    "name": "Dior J'adore",
+    "category": "fragrances",
+    "price": 89.99,
+    "popularity_score": 3.8
+  },
+  {
+    "product_id": "api-9",
+    "name": "Dolce Shine Eau de",
+    "category": "fragrances",
+    "price": 69.99,
+    "popularity_score": 3.96
+  },
+  {
+    "product_id": "api-10",
+    "name": "Gucci Bloom Eau de",
+    "category": "fragrances",
+    "price": 79.99,
+    "popularity_score": 2.74
+  },
+  {
+    "product_id": "api-11",
+    "name": "Annibale Colombo Bed",
+    "category": "furniture",
+    "price": 1899.99,
+    "popularity_score": 4.77
+  },
+  {
+    "product_id": "api-12",
+    "name": "Annibale Colombo Sofa",
+    "category": "furniture",
+    "price": 2499.99,
+    "popularity_score": 3.92
+  },
+  {
+    "product_id": "api-13",
+    "name": "Bedside Table African Cherry",
+    "category": "furniture",
+    "price": 299.99,
+    "popularity_score": 2.87
+  },
+  {
+    "product_id": "api-14",
+    "name": "Knoll Saarinen Executive Conference Chair",
+    "category": "furniture",
+    "price": 499.99,
+    "popularity_score": 4.88
+  },
+  {
+    "product_id": "api-15",
+    "name": "Wooden Bathroom Sink With Mirror",
+    "category": "furniture",
+    "price": 799.99,
+    "popularity_score": 3.59
+  },
+  {
+    "product_id": "api-16",
+    "name": "Apple",
+    "category": "groceries",
+    "price": 1.99,
+    "popularity_score": 4.19
+  },
+  {
+    "product_id": "api-17",
+    "name": "Beef Steak",
+    "category": "groceries",
+    "price": 12.99,
+    "popularity_score": 4.47
+  },
+  {
+    "product_id": "api-18",
+    "name": "Cat Food",
+    "category": "groceries",
+    "price": 8.99,
+    "popularity_score": 3.13
+  },
+  {
+    "product_id": "api-19",
+    "name": "Chicken Meat",
+    "category": "groceries",
+    "price": 9.99,
+    "popularity_score": 3.19
+  },
+  {
+    "product_id": "api-20",
+    "name": "Cooking Oil",
+    "category": "groceries",
+    "price": 4.99,
+    "popularity_score": 4.8
+  },
+  {
+    "product_id": "api-21",
+    "name": "Cucumber",
+    "category": "groceries",
+    "price": 1.49,
+    "popularity_score": 4.07
+  },
+  {
+    "product_id": "api-22",
+    "name": "Dog Food",
+    "category": "groceries",
+    "price": 10.99,
+    "popularity_score": 4.55
+  },
+  {
+    "product_id": "api-23",
+    "name": "Eggs",
+    "category": "groceries",
+    "price": 2.99,
+    "popularity_score": 2.53
+  },
+  {
+    "product_id": "api-24",
+    "name": "Fish Steak",
+    "category": "groceries",
+    "price": 14.99,
+    "popularity_score": 3.78
+  },
+  {
+    "product_id": "api-25",
+    "name": "Green Bell Pepper",
+    "category": "groceries",
+    "price": 1.29,
+    "popularity_score": 3.25
+  },
+  {
+    "product_id": "api-26",
+    "name": "Green Chili Pepper",
+    "category": "groceries",
+    "price": 0.99,
+    "popularity_score": 3.66
+  },
+  {
+    "product_id": "api-27",
+    "name": "Honey Jar",
+    "category": "groceries",
+    "price": 6.99,
+    "popularity_score": 3.97
+  },
+  {
+    "product_id": "api-28",
+    "name": "Ice Cream",
+    "category": "groceries",
+    "price": 5.49,
+    "popularity_score": 3.39
+  },
+  {
+    "product_id": "api-29",
+    "name": "Juice",
+    "category": "groceries",
+    "price": 3.99,
+    "popularity_score": 3.94
+  },
+  {
+    "product_id": "api-30",
+    "name": "Kiwi",
+    "category": "groceries",
+    "price": 2.49,
+    "popularity_score": 4.93
+  },
+  {
+    "product_id": "api-31",
+    "name": "Lemon",
+    "category": "groceries",
+    "price": 0.79,
+    "popularity_score": 3.53
+  },
+  {
+    "product_id": "api-32",
+    "name": "Milk",
+    "category": "groceries",
+    "price": 3.49,
+    "popularity_score": 2.61
+  },
+  {
+    "product_id": "api-33",
+    "name": "Mulberry",
+    "category": "groceries",
+    "price": 4.99,
+    "popularity_score": 4.95
+  },
+  {
+    "product_id": "api-34",
+    "name": "Nescafe Coffee",
+    "category": "groceries",
+    "price": 7.99,
+    "popularity_score": 4.82
+  },
+  {
+    "product_id": "api-35",
+    "name": "Potatoes",
+    "category": "groceries",
+    "price": 2.29,
+    "popularity_score": 4.81
+  },
+  {
+    "product_id": "api-36",
+    "name": "Protein Powder",
+    "category": "groceries",
+    "price": 19.99,
+    "popularity_score": 4.18
+  },
+  {
+    "product_id": "api-37",
+    "name": "Red Onions",
+    "category": "groceries",
+    "price": 1.99,
+    "popularity_score": 4.2
+  },
+  {
+    "product_id": "api-38",
+    "name": "Rice",
+    "category": "groceries",
+    "price": 5.99,
+    "popularity_score": 3.18
+  },
+  {
+    "product_id": "api-39",
+    "name": "Soft Drinks",
+    "category": "groceries",
+    "price": 1.99,
+    "popularity_score": 4.75
+  },
+  {
+    "product_id": "api-40",
+    "name": "Strawberry",
+    "category": "groceries",
+    "price": 3.99,
+    "popularity_score": 3.08
+  },
+  {
+    "product_id": "api-41",
+    "name": "Tissue Paper Box",
+    "category": "groceries",
+    "price": 2.49,
+    "popularity_score": 2.69
+  },
+  {
+    "product_id": "api-42",
+    "name": "Water",
+    "category": "groceries",
+    "price": 0.99,
+    "popularity_score": 4.96
+  },
+  {
+    "product_id": "api-43",
+    "name": "Decoration Swing",
+    "category": "home-decoration",
+    "price": 59.99,
+    "popularity_score": 3.16
+  },
+  {
+    "product_id": "api-44",
+    "name": "Family Tree Photo Frame",
+    "category": "home-decoration",
+    "price": 29.99,
+    "popularity_score": 4.53
+  },
+  {
+    "product_id": "api-45",
+    "name": "House Showpiece Plant",
+    "category": "home-decoration",
+    "price": 39.99,
+    "popularity_score": 4.67
+  },
+  {
+    "product_id": "api-46",
+    "name": "Plant Pot",
+    "category": "home-decoration",
+    "price": 14.99,
+    "popularity_score": 3.01
+  },
+  {
+    "product_id": "api-47",
+    "name": "Table Lamp",
+    "category": "home-decoration",
+    "price": 49.99,
+    "popularity_score": 3.55
+  },
+  {
+    "product_id": "api-48",
+    "name": "Bamboo Spatula",
+    "category": "kitchen-accessories",
+    "price": 7.99,
+    "popularity_score": 3.27
+  },
+  {
+    "product_id": "api-49",
+    "name": "Black Aluminium Cup",
+    "category": "kitchen-accessories",
+    "price": 5.99,
+    "popularity_score": 4.46
+  },
+  {
+    "product_id": "api-50",
+    "name": "Black Whisk",
+    "category": "kitchen-accessories",
+    "price": 9.99,
+    "popularity_score": 3.9
+  },
+  {
+    "product_id": "api-51",
+    "name": "Boxed Blender",
+    "category": "kitchen-accessories",
+    "price": 39.99,
+    "popularity_score": 4.56
+  },
+  {
+    "product_id": "api-52",
+    "name": "Carbon Steel Wok",
+    "category": "kitchen-accessories",
+    "price": 29.99,
+    "popularity_score": 4.05
+  },
+  {
+    "product_id": "api-53",
+    "name": "Chopping Board",
+    "category": "kitchen-accessories",
+    "price": 12.99,
+    "popularity_score": 3.7
+  },
+  {
+    "product_id": "api-54",
+    "name": "Citrus Squeezer Yellow",
+    "category": "kitchen-accessories",
+    "price": 8.99,
+    "popularity_score": 4.63
+  },
+  {
+    "product_id": "api-55",
+    "name": "Egg Slicer",
+    "category": "kitchen-accessories",
+    "price": 6.99,
+    "popularity_score": 3.09
+  },
+  {
+    "product_id": "api-56",
+    "name": "Electric Stove",
+    "category": "kitchen-accessories",
+    "price": 49.99,
+    "popularity_score": 4.11
+  },
+  {
+    "product_id": "api-57",
+    "name": "Fine Mesh Strainer",
+    "category": "kitchen-accessories",
+    "price": 9.99,
+    "popularity_score": 3.04
+  },
+  {
+    "product_id": "api-58",
+    "name": "Fork",
+    "category": "kitchen-accessories",
+    "price": 3.99,
+    "popularity_score": 3.11
+  },
+  {
+    "product_id": "api-59",
+    "name": "Glass",
+    "category": "kitchen-accessories",
+    "price": 4.99,
+    "popularity_score": 4.02
+  },
+  {
+    "product_id": "api-60",
+    "name": "Grater Black",
+    "category": "kitchen-accessories",
+    "price": 10.99,
+    "popularity_score": 3.21
+  },
+  {
+    "product_id": "api-61",
+    "name": "Hand Blender",
+    "category": "kitchen-accessories",
+    "price": 34.99,
+    "popularity_score": 3.86
+  },
+  {
+    "product_id": "api-62",
+    "name": "Ice Cube Tray",
+    "category": "kitchen-accessories",
+    "price": 5.99,
+    "popularity_score": 4.71
+  },
+  {
+    "product_id": "api-63",
+    "name": "Kitchen Sieve",
+    "category": "kitchen-accessories",
+    "price": 7.99,
+    "popularity_score": 3.09
+  },
+  {
+    "product_id": "api-64",
+    "name": "Knife",
+    "category": "kitchen-accessories",
+    "price": 14.99,
+    "popularity_score": 3.26
+  },
+  {
+    "product_id": "api-65",
+    "name": "Lunch Box",
+    "category": "kitchen-accessories",
+    "price": 12.99,
+    "popularity_score": 4.93
+  },
+  {
+    "product_id": "api-66",
+    "name": "Microwave Oven",
+    "category": "kitchen-accessories",
+    "price": 89.99,
+    "popularity_score": 4.82
+  },
+  {
+    "product_id": "api-67",
+    "name": "Mug Tree Stand",
+    "category": "kitchen-accessories",
+    "price": 15.99,
+    "popularity_score": 2.64
+  },
+  {
+    "product_id": "api-68",
+    "name": "Pan",
+    "category": "kitchen-accessories",
+    "price": 24.99,
+    "popularity_score": 2.79
+  },
+  {
+    "product_id": "api-69",
+    "name": "Plate",
+    "category": "kitchen-accessories",
+    "price": 3.99,
+    "popularity_score": 3.65
+  },
+  {
+    "product_id": "api-70",
+    "name": "Red Tongs",
+    "category": "kitchen-accessories",
+    "price": 6.99,
+    "popularity_score": 4.42
+  },
+  {
+    "product_id": "api-71",
+    "name": "Silver Pot With Glass Cap",
+    "category": "kitchen-accessories",
+    "price": 39.99,
+    "popularity_score": 3.22
+  },
+  {
+    "product_id": "api-72",
+    "name": "Slotted Turner",
+    "category": "kitchen-accessories",
+    "price": 8.99,
+    "popularity_score": 3.4
+  },
+  {
+    "product_id": "api-73",
+    "name": "Spice Rack",
+    "category": "kitchen-accessories",
+    "price": 19.99,
+    "popularity_score": 4.87
+  },
+  {
+    "product_id": "api-74",
+    "name": "Spoon",
+    "category": "kitchen-accessories",
+    "price": 4.99,
+    "popularity_score": 4.03
+  },
+  {
+    "product_id": "api-75",
+    "name": "Tray",
+    "category": "kitchen-accessories",
+    "price": 16.99,
+    "popularity_score": 4.62
+  },
+  {
+    "product_id": "api-76",
+    "name": "Wooden Rolling Pin",
+    "category": "kitchen-accessories",
+    "price": 11.99,
+    "popularity_score": 2.92
+  },
+  {
+    "product_id": "api-77",
+    "name": "Yellow Peeler",
+    "category": "kitchen-accessories",
+    "price": 5.99,
+    "popularity_score": 4.24
+  },
+  {
+    "product_id": "api-78",
+    "name": "Apple MacBook Pro 14 Inch Space Grey",
+    "category": "laptops",
+    "price": 1999.99,
+    "popularity_score": 3.65
+  },
+  {
+    "product_id": "api-79",
+    "name": "Asus Zenbook Pro Dual Screen Laptop",
+    "category": "laptops",
+    "price": 1799.99,
+    "popularity_score": 3.95
+  },
+  {
+    "product_id": "api-80",
+    "name": "Huawei Matebook X Pro",
+    "category": "laptops",
+    "price": 1399.99,
+    "popularity_score": 4.98
+  },
+  {
+    "product_id": "api-81",
+    "name": "Lenovo Yoga 920",
+    "category": "laptops",
+    "price": 1099.99,
+    "popularity_score": 2.86
+  },
+  {
+    "product_id": "api-82",
+    "name": "New DELL XPS 13 9300 Laptop",
+    "category": "laptops",
+    "price": 1499.99,
+    "popularity_score": 2.67
+  },
+  {
+    "product_id": "api-83",
+    "name": "Blue & Black Check Shirt",
+    "category": "mens-shirts",
+    "price": 29.99,
+    "popularity_score": 3.64
+  },
+  {
+    "product_id": "api-84",
+    "name": "Gigabyte Aorus Men Tshirt",
+    "category": "mens-shirts",
+    "price": 24.99,
+    "popularity_score": 3.18
+  },
+  {
+    "product_id": "api-85",
+    "name": "Man Plaid Shirt",
+    "category": "mens-shirts",
+    "price": 34.99,
+    "popularity_score": 3.46
+  },
+  {
+    "product_id": "api-86",
+    "name": "Man Short Sleeve Shirt",
+    "category": "mens-shirts",
+    "price": 19.99,
+    "popularity_score": 2.9
+  },
+  {
+    "product_id": "api-87",
+    "name": "Men Check Shirt",
+    "category": "mens-shirts",
+    "price": 27.99,
+    "popularity_score": 2.72
+  },
+  {
+    "product_id": "api-88",
+    "name": "Nike Air Jordan 1 Red And Black",
+    "category": "mens-shoes",
+    "price": 149.99,
+    "popularity_score": 4.77
+  },
+  {
+    "product_id": "api-89",
+    "name": "Nike Baseball Cleats",
+    "category": "mens-shoes",
+    "price": 79.99,
+    "popularity_score": 3.88
+  },
+  {
+    "product_id": "api-90",
+    "name": "Puma Future Rider Trainers",
+    "category": "mens-shoes",
+    "price": 89.99,
+    "popularity_score": 4.9
+  },
+  {
+    "product_id": "api-91",
+    "name": "Sports Sneakers Off White & Red",
+    "category": "mens-shoes",
+    "price": 119.99,
+    "popularity_score": 4.77
+  },
+  {
+    "product_id": "api-92",
+    "name": "Sports Sneakers Off White Red",
+    "category": "mens-shoes",
+    "price": 109.99,
+    "popularity_score": 4.69
+  },
+  {
+    "product_id": "api-93",
+    "name": "Brown Leather Belt Watch",
+    "category": "mens-watches",
+    "price": 89.99,
+    "popularity_score": 4.19
+  },
+  {
+    "product_id": "api-94",
+    "name": "Longines Master Collection",
+    "category": "mens-watches",
+    "price": 1499.99,
+    "popularity_score": 3.87
+  },
+  {
+    "product_id": "api-95",
+    "name": "Rolex Cellini Date Black Dial",
+    "category": "mens-watches",
+    "price": 8999.99,
+    "popularity_score": 4.97
+  },
+  {
+    "product_id": "api-96",
+    "name": "Rolex Cellini Moonphase",
+    "category": "mens-watches",
+    "price": 12999.99,
+    "popularity_score": 2.58
+  },
+  {
+    "product_id": "api-97",
+    "name": "Rolex Datejust",
+    "category": "mens-watches",
+    "price": 10999.99,
+    "popularity_score": 3.66
+  },
+  {
+    "product_id": "api-98",
+    "name": "Rolex Submariner Watch",
+    "category": "mens-watches",
+    "price": 13999.99,
+    "popularity_score": 2.69
+  },
+  {
+    "product_id": "api-99",
+    "name": "Amazon Echo Plus",
+    "category": "mobile-accessories",
+    "price": 99.99,
+    "popularity_score": 4.99
+  },
+  {
+    "product_id": "api-100",
+    "name": "Apple Airpods",
+    "category": "mobile-accessories",
+    "price": 129.99,
+    "popularity_score": 4.15
+  },
+  {
+    "product_id": "api-101",
+    "name": "Apple AirPods Max Silver",
+    "category": "mobile-accessories",
+    "price": 549.99,
+    "popularity_score": 3.47
+  },
+  {
+    "product_id": "api-102",
+    "name": "Apple Airpower Wireless Charger",
+    "category": "mobile-accessories",
+    "price": 79.99,
+    "popularity_score": 3.68
+  },
+  {
+    "product_id": "api-103",
+    "name": "Apple HomePod Mini Cosmic Grey",
+    "category": "mobile-accessories",
+    "price": 99.99,
+    "popularity_score": 4.62
+  },
+  {
+    "product_id": "api-104",
+    "name": "Apple iPhone Charger",
+    "category": "mobile-accessories",
+    "price": 19.99,
+    "popularity_score": 4.15
+  },
+  {
+    "product_id": "api-105",
+    "name": "Apple MagSafe Battery Pack",
+    "category": "mobile-accessories",
+    "price": 99.99,
+    "popularity_score": 3.62
+  },
+  {
+    "product_id": "api-106",
+    "name": "Apple Watch Series 4 Gold",
+    "category": "mobile-accessories",
+    "price": 349.99,
+    "popularity_score": 2.74
+  },
+  {
+    "product_id": "api-107",
+    "name": "Beats Flex Wireless Earphones",
+    "category": "mobile-accessories",
+    "price": 49.99,
+    "popularity_score": 4.24
+  },
+  {
+    "product_id": "api-108",
+    "name": "iPhone 12 Silicone Case with MagSafe Plum",
+    "category": "mobile-accessories",
+    "price": 29.99,
+    "popularity_score": 3.62
+  },
+  {
+    "product_id": "api-109",
+    "name": "Monopod",
+    "category": "mobile-accessories",
+    "price": 19.99,
+    "popularity_score": 4.43
+  },
+  {
+    "product_id": "api-110",
+    "name": "Selfie Lamp with iPhone",
+    "category": "mobile-accessories",
+    "price": 14.99,
+    "popularity_score": 3.55
+  },
+  {
+    "product_id": "api-111",
+    "name": "Selfie Stick Monopod",
+    "category": "mobile-accessories",
+    "price": 12.99,
+    "popularity_score": 3.88
+  },
+  {
+    "product_id": "api-112",
+    "name": "TV Studio Camera Pedestal",
+    "category": "mobile-accessories",
+    "price": 499.99,
+    "popularity_score": 2.78
+  },
+  {
+    "product_id": "api-113",
+    "name": "Generic Motorcycle",
+    "category": "motorcycle",
+    "price": 3999.99,
+    "popularity_score": 4.91
+  },
+  {
+    "product_id": "api-114",
+    "name": "Kawasaki Z800",
+    "category": "motorcycle",
+    "price": 8999.99,
+    "popularity_score": 3.98
+  },
+  {
+    "product_id": "api-115",
+    "name": "MotoGP CI.H1",
+    "category": "motorcycle",
+    "price": 14999.99,
+    "popularity_score": 2.97
+  },
+  {
+    "product_id": "api-116",
+    "name": "Scooter Motorcycle",
+    "category": "motorcycle",
+    "price": 2999.99,
+    "popularity_score": 2.53
+  },
+  {
+    "product_id": "api-117",
+    "name": "Sportbike Motorcycle",
+    "category": "motorcycle",
+    "price": 7499.99,
+    "popularity_score": 3.94
+  },
+  {
+    "product_id": "api-118",
+    "name": "Attitude Super Leaves Hand Soap",
+    "category": "skin-care",
+    "price": 8.99,
+    "popularity_score": 3.19
+  },
+  {
+    "product_id": "api-119",
+    "name": "Olay Ultra Moisture Shea Butter Body Wash",
+    "category": "skin-care",
+    "price": 12.99,
+    "popularity_score": 4.51
+  },
+  {
+    "product_id": "api-120",
+    "name": "Vaseline Men Body and Face Lotion",
+    "category": "skin-care",
+    "price": 9.99,
+    "popularity_score": 3.16
+  },
+  {
+    "product_id": "api-121",
+    "name": "iPhone 5s",
+    "category": "smartphones",
+    "price": 199.99,
+    "popularity_score": 2.83
+  },
+  {
+    "product_id": "api-122",
+    "name": "iPhone 6",
+    "category": "smartphones",
+    "price": 299.99,
+    "popularity_score": 3.41
+  },
+  {
+    "product_id": "api-123",
+    "name": "iPhone 13 Pro",
+    "category": "smartphones",
+    "price": 1099.99,
+    "popularity_score": 4.12
+  },
+  {
+    "product_id": "api-124",
+    "name": "iPhone X",
+    "category": "smartphones",
+    "price": 899.99,
+    "popularity_score": 2.51
+  },
+  {
+    "product_id": "api-125",
+    "name": "Oppo A57",
+    "category": "smartphones",
+    "price": 249.99,
+    "popularity_score": 3.94
+  },
+  {
+    "product_id": "api-126",
+    "name": "Oppo F19 Pro Plus",
+    "category": "smartphones",
+    "price": 399.99,
+    "popularity_score": 3.51
+  },
+  {
+    "product_id": "api-127",
+    "name": "Oppo K1",
+    "category": "smartphones",
+    "price": 299.99,
+    "popularity_score": 4.25
+  },
+  {
+    "product_id": "api-128",
+    "name": "Realme C35",
+    "category": "smartphones",
+    "price": 149.99,
+    "popularity_score": 4.2
+  },
+  {
+    "product_id": "api-129",
+    "name": "Realme X",
+    "category": "smartphones",
+    "price": 299.99,
+    "popularity_score": 3.7
+  },
+  {
+    "product_id": "api-130",
+    "name": "Realme XT",
+    "category": "smartphones",
+    "price": 349.99,
+    "popularity_score": 4.58
+  },
+  {
+    "product_id": "api-131",
+    "name": "Samsung Galaxy S7",
+    "category": "smartphones",
+    "price": 299.99,
+    "popularity_score": 3.3
+  },
+  {
+    "product_id": "api-132",
+    "name": "Samsung Galaxy S8",
+    "category": "smartphones",
+    "price": 499.99,
+    "popularity_score": 4.4
+  },
+  {
+    "product_id": "api-133",
+    "name": "Samsung Galaxy S10",
+    "category": "smartphones",
+    "price": 699.99,
+    "popularity_score": 3.06
+  },
+  {
+    "product_id": "api-134",
+    "name": "Vivo S1",
+    "category": "smartphones",
+    "price": 249.99,
+    "popularity_score": 3.5
+  },
+  {
+    "product_id": "api-135",
+    "name": "Vivo V9",
+    "category": "smartphones",
+    "price": 299.99,
+    "popularity_score": 3.6
+  },
+  {
+    "product_id": "api-136",
+    "name": "Vivo X21",
+    "category": "smartphones",
+    "price": 499.99,
+    "popularity_score": 4.26
+  },
+  {
+    "product_id": "api-137",
+    "name": "American Football",
+    "category": "sports-accessories",
+    "price": 19.99,
+    "popularity_score": 4.91
+  },
+  {
+    "product_id": "api-138",
+    "name": "Baseball Ball",
+    "category": "sports-accessories",
+    "price": 8.99,
+    "popularity_score": 2.57
+  },
+  {
+    "product_id": "api-139",
+    "name": "Baseball Glove",
+    "category": "sports-accessories",
+    "price": 24.99,
+    "popularity_score": 3.96
+  },
+  {
+    "product_id": "api-140",
+    "name": "Basketball",
+    "category": "sports-accessories",
+    "price": 14.99,
+    "popularity_score": 4.66
+  },
+  {
+    "product_id": "api-141",
+    "name": "Basketball Rim",
+    "category": "sports-accessories",
+    "price": 39.99,
+    "popularity_score": 4.6
+  },
+  {
+    "product_id": "api-142",
+    "name": "Cricket Ball",
+    "category": "sports-accessories",
+    "price": 12.99,
+    "popularity_score": 3.53
+  },
+  {
+    "product_id": "api-143",
+    "name": "Cricket Bat",
+    "category": "sports-accessories",
+    "price": 29.99,
+    "popularity_score": 3.17
+  },
+  {
+    "product_id": "api-144",
+    "name": "Cricket Helmet",
+    "category": "sports-accessories",
+    "price": 44.99,
+    "popularity_score": 4.69
+  },
+  {
+    "product_id": "api-145",
+    "name": "Cricket Wicket",
+    "category": "sports-accessories",
+    "price": 29.99,
+    "popularity_score": 4.73
+  },
+  {
+    "product_id": "api-146",
+    "name": "Feather Shuttlecock",
+    "category": "sports-accessories",
+    "price": 5.99,
+    "popularity_score": 2.85
+  },
+  {
+    "product_id": "api-147",
+    "name": "Football",
+    "category": "sports-accessories",
+    "price": 17.99,
+    "popularity_score": 3.28
+  },
+  {
+    "product_id": "api-148",
+    "name": "Golf Ball",
+    "category": "sports-accessories",
+    "price": 9.99,
+    "popularity_score": 4.3
+  },
+  {
+    "product_id": "api-149",
+    "name": "Iron Golf",
+    "category": "sports-accessories",
+    "price": 49.99,
+    "popularity_score": 4.41
+  },
+  {
+    "product_id": "api-150",
+    "name": "Metal Baseball Bat",
+    "category": "sports-accessories",
+    "price": 29.99,
+    "popularity_score": 4.66
+  },
+  {
+    "product_id": "api-151",
+    "name": "Tennis Ball",
+    "category": "sports-accessories",
+    "price": 6.99,
+    "popularity_score": 4.06
+  },
+  {
+    "product_id": "api-152",
+    "name": "Tennis Racket",
+    "category": "sports-accessories",
+    "price": 49.99,
+    "popularity_score": 4.03
+  },
+  {
+    "product_id": "api-153",
+    "name": "Volleyball",
+    "category": "sports-accessories",
+    "price": 11.99,
+    "popularity_score": 3.84
+  },
+  {
+    "product_id": "api-154",
+    "name": "Black Sun Glasses",
+    "category": "sunglasses",
+    "price": 29.99,
+    "popularity_score": 4.41
+  },
+  {
+    "product_id": "api-155",
+    "name": "Classic Sun Glasses",
+    "category": "sunglasses",
+    "price": 24.99,
+    "popularity_score": 3.86
+  },
+  {
+    "product_id": "api-156",
+    "name": "Green and Black Glasses",
+    "category": "sunglasses",
+    "price": 34.99,
+    "popularity_score": 4.55
+  },
+  {
+    "product_id": "api-157",
+    "name": "Party Glasses",
+    "category": "sunglasses",
+    "price": 19.99,
+    "popularity_score": 2.79
+  },
+  {
+    "product_id": "api-158",
+    "name": "Sunglasses",
+    "category": "sunglasses",
+    "price": 22.99,
+    "popularity_score": 3.02
+  },
+  {
+    "product_id": "api-159",
+    "name": "iPad Mini 2021 Starlight",
+    "category": "tablets",
+    "price": 499.99,
+    "popularity_score": 3.18
+  },
+  {
+    "product_id": "api-160",
+    "name": "Samsung Galaxy Tab S8 Plus Grey",
+    "category": "tablets",
+    "price": 599.99,
+    "popularity_score": 4.68
+  },
+  {
+    "product_id": "api-161",
+    "name": "Samsung Galaxy Tab White",
+    "category": "tablets",
+    "price": 349.99,
+    "popularity_score": 3.72
+  },
+  {
+    "product_id": "api-162",
+    "name": "Blue Frock",
+    "category": "tops",
+    "price": 29.99,
+    "popularity_score": 4.17
+  },
+  {
+    "product_id": "api-163",
+    "name": "Girl Summer Dress",
+    "category": "tops",
+    "price": 19.99,
+    "popularity_score": 4.77
+  },
+  {
+    "product_id": "api-164",
+    "name": "Gray Dress",
+    "category": "tops",
+    "price": 34.99,
+    "popularity_score": 2.72
+  },
+  {
+    "product_id": "api-165",
+    "name": "Short Frock",
+    "category": "tops",
+    "price": 24.99,
+    "popularity_score": 3.23
+  },
+  {
+    "product_id": "api-166",
+    "name": "Tartan Dress",
+    "category": "tops",
+    "price": 39.99,
+    "popularity_score": 4.05
+  },
+  {
+    "product_id": "api-167",
+    "name": "300 Touring",
+    "category": "vehicle",
+    "price": 28999.99,
+    "popularity_score": 4.05
+  },
+  {
+    "product_id": "api-168",
+    "name": "Charger SXT RWD",
+    "category": "vehicle",
+    "price": 32999.99,
+    "popularity_score": 2.58
+  },
+  {
+    "product_id": "api-169",
+    "name": "Dodge Hornet GT Plus",
+    "category": "vehicle",
+    "price": 24999.99,
+    "popularity_score": 2.65
+  },
+  {
+    "product_id": "api-170",
+    "name": "Durango SXT RWD",
+    "category": "vehicle",
+    "price": 36999.99,
+    "popularity_score": 4.07
+  },
+  {
+    "product_id": "api-171",
+    "name": "Pacifica Touring",
+    "category": "vehicle",
+    "price": 31999.99,
+    "popularity_score": 3.62
+  },
+  {
+    "product_id": "api-172",
+    "name": "Blue Women's Handbag",
+    "category": "womens-bags",
+    "price": 49.99,
+    "popularity_score": 2.92
+  },
+  {
+    "product_id": "api-173",
+    "name": "Heshe Women's Leather Bag",
+    "category": "womens-bags",
+    "price": 129.99,
+    "popularity_score": 4.92
+  },
+  {
+    "product_id": "api-174",
+    "name": "Prada Women Bag",
+    "category": "womens-bags",
+    "price": 599.99,
+    "popularity_score": 2.71
+  },
+  {
+    "product_id": "api-175",
+    "name": "White Faux Leather Backpack",
+    "category": "womens-bags",
+    "price": 39.99,
+    "popularity_score": 3.36
+  },
+  {
+    "product_id": "api-176",
+    "name": "Women Handbag Black",
+    "category": "womens-bags",
+    "price": 59.99,
+    "popularity_score": 2.89
+  },
+  {
+    "product_id": "api-177",
+    "name": "Black Women's Gown",
+    "category": "womens-dresses",
+    "price": 129.99,
+    "popularity_score": 3.64
+  },
+  {
+    "product_id": "api-178",
+    "name": "Corset Leather With Skirt",
+    "category": "womens-dresses",
+    "price": 89.99,
+    "popularity_score": 3.05
+  },
+  {
+    "product_id": "api-179",
+    "name": "Corset With Black Skirt",
+    "category": "womens-dresses",
+    "price": 79.99,
+    "popularity_score": 4.52
+  },
+  {
+    "product_id": "api-180",
+    "name": "Dress Pea",
+    "category": "womens-dresses",
+    "price": 49.99,
+    "popularity_score": 4.88
+  },
+  {
+    "product_id": "api-181",
+    "name": "Marni Red & Black Suit",
+    "category": "womens-dresses",
+    "price": 179.99,
+    "popularity_score": 4.48
+  },
+  {
+    "product_id": "api-182",
+    "name": "Green Crystal Earring",
+    "category": "womens-jewellery",
+    "price": 29.99,
+    "popularity_score": 3.96
+  },
+  {
+    "product_id": "api-183",
+    "name": "Green Oval Earring",
+    "category": "womens-jewellery",
+    "price": 24.99,
+    "popularity_score": 3.57
+  },
+  {
+    "product_id": "api-184",
+    "name": "Tropical Earring",
+    "category": "womens-jewellery",
+    "price": 19.99,
+    "popularity_score": 4.4
+  },
+  {
+    "product_id": "api-185",
+    "name": "Black & Brown Slipper",
+    "category": "womens-shoes",
+    "price": 19.99,
+    "popularity_score": 2.53
+  },
+  {
+    "product_id": "api-186",
+    "name": "Calvin Klein Heel Shoes",
+    "category": "womens-shoes",
+    "price": 79.99,
+    "popularity_score": 4.92
+  },
+  {
+    "product_id": "api-187",
+    "name": "Golden Shoes Woman",
+    "category": "womens-shoes",
+    "price": 49.99,
+    "popularity_score": 3.26
+  },
+  {
+    "product_id": "api-188",
+    "name": "Pampi Shoes",
+    "category": "womens-shoes",
+    "price": 29.99,
+    "popularity_score": 3.05
+  },
+  {
+    "product_id": "api-189",
+    "name": "Red Shoes",
+    "category": "womens-shoes",
+    "price": 34.99,
+    "popularity_score": 3.25
+  },
+  {
+    "product_id": "api-190",
+    "name": "IWC Ingenieur Automatic Steel",
+    "category": "womens-watches",
+    "price": 4999.99,
+    "popularity_score": 2.93
+  },
+  {
+    "product_id": "api-191",
+    "name": "Rolex Cellini Moonphase",
+    "category": "womens-watches",
+    "price": 15999.99,
+    "popularity_score": 3.83
+  },
+  {
+    "product_id": "api-192",
+    "name": "Rolex Datejust Women",
+    "category": "womens-watches",
+    "price": 10999.99,
+    "popularity_score": 2.86
+  },
+  {
+    "product_id": "api-193",
+    "name": "Watch Gold for Women",
+    "category": "womens-watches",
+    "price": 799.99,
+    "popularity_score": 4.24
+  },
+  {
+    "product_id": "api-194",
+    "name": "Women's Wrist Watch",
+    "category": "womens-watches",
+    "price": 129.99,
+    "popularity_score": 3.52
+  }
+]

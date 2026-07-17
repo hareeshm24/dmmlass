@@ -1,9 +1,9 @@
 {
-  "ingested_at": "2026-07-17T19:40:09.061225+00:00",
+  "ingested_at": "2026-07-17T20:00:06.641165+00:00",
   "files": [
     {
       "source": "external_api",
-      "path": "data/raw/near_real_time_api/2026/07/17/external_products_20260717T194009Z.json"
+      "path": "data/raw/near_real_time_api/2026/07/17/external_products_20260717T200006Z.json"
     }
   ]
 }
