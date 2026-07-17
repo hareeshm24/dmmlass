@@ -1,0 +1,63 @@
+stages:
+  ingest:
+    cmd: python -m ingestion.ingest_data
+    deps:
+      - ingestion/ingest_data.py
+      - ingestion/load_movielens.py
+      - project_config.py
+    outs:
+      - data/raw/ratings
+      - data/raw/api
+      - data/raw/ingestion_manifest.json
+  validate:
+    cmd: python -m validation.validate_data
+    deps:
+      - validation/validate_data.py
+      - project_config.py
+      - data/raw/ingestion_manifest.json
+      - data/raw/ratings
+      - data/raw/api
+    outs:
+      - reports/data_quality_report.pdf
+      - reports/validation_report.json
+  prepare:
+    cmd: python -m preprocessing.prepare_data
+    deps:
+      - preprocessing/prepare_data.py
+      - project_config.py
+      - data/raw/ingestion_manifest.json
+      - data/raw/ratings
+      - data/raw/api
+    outs:
+      - data/processed/prepared_interactions.csv
+      - reports/plots/rating_distribution.png
+      - reports/plots/feature_correlation.png
+      - reports/plots/item_popularity.png
+      - reports/plots/interaction_sparsity.png
+  features:
+    cmd: python -m feature_engineering.engineer_features
+    deps:
+      - feature_engineering/engineer_features.py
+      - project_config.py
+      - data/processed/prepared_interactions.csv
+    outs:
+      - data/features/feature_table.csv
+      - database/recomart_features.db
+  feature_store:
+    cmd: python -m feature_store.feature_store
+    deps:
+      - feature_store/feature_store.py
+      - project_config.py
+      - data/features/feature_table.csv
+    outs:
+      - data/features/feature_store_metadata.json
+      - data/features/versions
+  train:
+    cmd: python -m model.train_model
+    deps:
+      - model/train_model.py
+      - project_config.py
+      - data/features/feature_table.csv
+    outs:
+      - data/models/recommendation_model.pkl
+      - data/models/model_metadata.json

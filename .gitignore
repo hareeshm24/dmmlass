@@ -1,0 +1,46 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+mlruns/.trash/
+reports/RecoMart_Assignment_Report_v2.pdf
+
+# DVC-managed pipeline outputs
+/data/raw/ratings
+/data/raw/api
+/data/raw/ingestion_manifest.json
+/data/processed/prepared_interactions.csv
+/data/features/feature_table.csv
+/data/features/feature_store_metadata.json
+/data/features/versions
+/data/models/recommendation_model.pkl
+/data/models/model_metadata.json
+/database/recomart_features.db
+/reports/data_quality_report.pdf
+/reports/validation_report.json
+/reports/plots/rating_distribution.png
+/reports/plots/feature_correlation.png
+/reports/plots/item_popularity.png
+/reports/plots/interaction_sparsity.png
+
+@'
+
+# Local virtual environment
+/.venv/
+/venv/
+
+# Runtime logs
+/logs/
+
+# Local MLflow tracking
+/mlruns/
+/mlflow.db
+
+# Downloaded public dataset
+/data/raw/public/
+
+# Editor and operating-system files
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+'@ | Add-Content .gitignore
