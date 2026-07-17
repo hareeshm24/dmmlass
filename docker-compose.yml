@@ -1,0 +1,31 @@
+services:
+  airflow:
+    image: apache/airflow:2.7.1-python3.11
+    environment:
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags/dags
+      - PYTHONPATH=/opt/airflow/dags
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+      - _PIP_ADDITIONAL_REQUIREMENTS=-r /opt/airflow/dags/requirements.txt
+      - _AIRFLOW_DB_MIGRATE=true
+      - _AIRFLOW_WWW_USER_CREATE=true
+      - _AIRFLOW_WWW_USER_USERNAME=admin
+      - _AIRFLOW_WWW_USER_PASSWORD=password
+    command: airflow standalone
+    volumes:
+      - ./:/opt/airflow/dags:rw
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mlflow
+    restart: unless-stopped
+
+  mlflow:
+    image: python:3.10-slim
+    working_dir: /workspace
+    volumes:
+      - ./:/workspace
+    command: bash -c "pip install mlflow==2.9.2 && mlflow server --backend-store-uri sqlite:////workspace/mlflow_airflow.db --serve-artifacts --artifacts-destination /workspace/mlruns --host 0.0.0.0 --port 5000"
+    ports:
+      - "5000:5000"
+    restart: unless-stopped

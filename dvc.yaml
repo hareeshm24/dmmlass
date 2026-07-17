@@ -28,6 +28,7 @@ stages:
       - data/raw/ingestion_manifest.json
       - data/raw/ratings
       - data/raw/api
+      -  reports/validation_report.json
     outs:
       - data/processed/prepared_interactions.csv
       - reports/plots/rating_distribution.png
